@@ -1,3 +1,3 @@
-## This is a very basic website.
+## Welcome! This is a placeholder page.
 
-### To see my full portfolio, visit [my website here.](https://www.aliciazhao.me)
+### To see my full portfolio, visit [here.](https://www.aliciazhao.me)
